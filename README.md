@@ -1,4 +1,4 @@
-# OutbreakPTO-Prototype
+# Outbreak-PTO-Alpha
 
 too lazy to write description todo: add description
 
